@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Luiz Clemente</h1>
 <h3 align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas</h3>
 
-- 🌱 Atualmente estou estudando **HTML5, CSS3 e Brevemente voltarei a estudar Python!**
+- 🌱 Atualmente estou estudando **HTML5, CSS3 e Python!**
 
 - 📫 Você pode me contatar atraves do email **lhenrique.clemente@hotmail.com**
 
